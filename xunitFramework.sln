@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "xunitFramework", "xunitFramework\xunitFramework.csproj", "{3FEE3EE3-A6CF-4961-B090-BEF41F6E1548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FEE3EE3-A6CF-4961-B090-BEF41F6E1548}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FEE3EE3-A6CF-4961-B090-BEF41F6E1548}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FEE3EE3-A6CF-4961-B090-BEF41F6E1548}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FEE3EE3-A6CF-4961-B090-BEF41F6E1548}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C83DB08B-0357-4172-AB19-E8D87F743B47}
+	EndGlobalSection
+EndGlobal
